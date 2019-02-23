@@ -1,13 +1,13 @@
 #Redmine_Agile_Light
-# cd ~
+#cd ~
 
-# git clone https://github.com/cdkey3891/redmine_agile.git
+#git clone https://github.com/cdkey3891/redmine_agile.git
 
-# cp -r ~/redmine_agile /opt/redmine/apps/redmine/htdocs/plugins/
+#cp -r ~/redmine_agile /opt/redmine/apps/redmine/htdocs/plugins/
 
-# cd /opt/redmine/apps/redmine/htdocs
+#cd /opt/redmine/apps/redmine/htdocs
 
-# /opt/redmine/use_redmine
+#/opt/redmine/use_redmine
 
 $ bundle install --without development test --no-deployment
 
