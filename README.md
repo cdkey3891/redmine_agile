@@ -1,4 +1,4 @@
-Redmine_Agile Light Version from RedmineUP
+Redmine Agile Plugin Light Version from RedmineUP
 
 #cd ~
 
